@@ -10,7 +10,7 @@
     }
 
     $length = 5;
-    $width = 10;
+    $width = 9;
     $area = calculateArea($length, $width);
 
     echo "<p>The area of rectangle with a width of $width and $length is $area</p>";
