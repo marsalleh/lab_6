@@ -17,7 +17,7 @@
             'age' => 20
         ],
         [
-            'name' => 'Lara',
+            'name' => 'Raju',
             'program' => 'BIT',
             'age' => 22
         ]
